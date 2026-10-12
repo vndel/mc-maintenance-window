@@ -1,0 +1,7 @@
+checks:
+  - recent-backup-exists
+  - restore-test-passed
+  - rollback-artifact-available
+  - player-announcement-published
+  - monitoring-dashboard-open
+  - on-call-owner-confirmed
